@@ -16,6 +16,7 @@ body {
   one beside the other equally.   */
   
   display: flex;
+  justify-contect:space-evenly:
   flex-wrap: wrap;
   font-family: sans-serif;
 }
